@@ -1,3 +1,6 @@
-# easylister
+# Easy Lister
 A simple Web To-Do List. Feel Free to use with my credits  
-## Try it here : https://easylister.mtxserv.com/
+     
+## ⚡ Features
+- Random wallpapers    
+- Saves with majority of browsers 
